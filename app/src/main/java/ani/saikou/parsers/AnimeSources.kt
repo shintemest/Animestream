@@ -6,14 +6,8 @@ import ani.saikou.parsers.anime.*
 
 object AnimeSources : WatchSources() {
     override val list: List<Lazier<BaseParser>> = lazyList(
-        "AllAnime" to ::AllAnime,
-        "Gogo" to ::Gogo,
-        "Zoro" to ::Zoro,
-        "Marin" to ::Marin,
-        "AnimePahe" to ::AnimePahe,
-        "Consume Bili" to ::ConsumeBili,
-//        "Enime" to ::Enime,
-        "NineAnime" to ::NineAnime,
+        "Samehadaku" to ::Samehadaku,
+        "Zoro" to ::Zoro
     )
 }
 

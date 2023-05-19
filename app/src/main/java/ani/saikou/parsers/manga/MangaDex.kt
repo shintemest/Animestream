@@ -31,7 +31,7 @@ class MangaDex : MangaParser() {
                 .parsed<MangaResponse>().data?.reversed()
 
             data?.forEach {
-                if (it.attributes.translatedLanguage == "en" && it.attributes.externalUrl == null) {
+                if (it.attributes.translatedLanguage == "in" && it.attributes.externalUrl == null) {
                     val chapter = (it.attributes.chapter ?: return@forEach).toString()
                     val title = it.attributes.title
                     list.add(MangaChapter(chapter, it.id, title))
