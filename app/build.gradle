@@ -1,7 +1,5 @@
 plugins {
     id 'com.android.application'
-    id 'com.google.gms.google-services'
-    id 'com.google.firebase.crashlytics'
     id 'kotlin-android'
     id 'kotlin-kapt'
     id 'kotlinx-serialization'
@@ -12,7 +10,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "ani.saikou"
+        applicationId "ani.saikou.in"
         minSdk 21
         targetSdk 33
         versionCode ((System.currentTimeMillis() / 60000).toInteger())
@@ -61,11 +59,6 @@ dependencies {
     kapt 'com.github.bumptech.glide:compiler:4.15.1'
     implementation 'com.github.bumptech.glide:okhttp3-integration:4.15.1'
     implementation 'jp.wasabeef:glide-transformations:4.3.0'
-
-//    FireBase
-    implementation platform('com.google.firebase:firebase-bom:32.0.0')
-    implementation 'com.google.firebase:firebase-analytics-ktx:21.2.2'
-    implementation 'com.google.firebase:firebase-crashlytics-ktx:18.3.7'
 
 //    Exoplayer
     ext.exo_version = '1.0.2'

@@ -6,9 +6,6 @@ import android.content.Context
 import android.os.Bundle
 import androidx.multidex.MultiDex
 import androidx.multidex.MultiDexApplication
-import ani.saikou.others.DisabledReports
-import com.google.firebase.crashlytics.ktx.crashlytics
-import com.google.firebase.ktx.Firebase
 
 @SuppressLint("StaticFieldLeak")
 class App : MultiDexApplication() {
@@ -27,7 +24,6 @@ class App : MultiDexApplication() {
         super.onCreate()
         registerActivityLifecycleCallbacks(mFTActivityLifecycleCallbacks)
 
-        Firebase.crashlytics.setCrashlyticsCollectionEnabled(!DisabledReports)
         initializeNetwork(baseContext)
 
     }
