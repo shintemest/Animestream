@@ -9,6 +9,7 @@ object AnimeSources : WatchSources() {
         "Samehadaku" to ::Samehadaku,
         "OtakuDesu" to ::OtakuDesu,
         "KuramaAnime" to ::KuramaAnime,
+        "OpLoverz" to ::OpLoverz,
         "Zoro" to ::Zoro
     )
 }
