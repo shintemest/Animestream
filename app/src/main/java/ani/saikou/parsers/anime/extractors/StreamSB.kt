@@ -15,7 +15,7 @@ class StreamSB(override val server: VideoServer) : VideoExtractor() {
         val videos = mutableListOf<Video>()
         val id = server.embed.url.let { it.findBetween("/e/", ".html") ?: it.split("/e/")[1] }
         val jsonLink =
-            "https://sbani.pro/375664356a494546326c4b797c7c6e756577776778623171737/${encode(id)}"
+            "${server.embed.url.substringBefore("/e/")}/375664356a494546326c4b797c7c6e756577776778623171737/${encode(id)}"
         val json = client.get(jsonLink, mapOf("watchsb" to "sbstream")).parsed<Response>()
         if (json.statusCode == 200) {
             videos.add(Video(null, VideoType.M3U8, FileUrl(json.streamData!!.file, defaultHeaders)))

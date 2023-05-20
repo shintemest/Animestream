@@ -107,9 +107,9 @@ class OtakuDesu : AnimeParser() {
     override suspend fun getVideoExtractor(server: VideoServer): VideoExtractor? {
         val domain = Uri.parse(server.embed.url).host ?: ""
         val extractor: VideoExtractor? = when {
-            "kraken" in domain   -> Kraken(server)
-            "desu" in domain -> DesuDesu(server)
-            else                 -> null
+            "kraken" in domain -> Kraken(server)
+            "desu" in domain   -> DesuDesu(server)
+            else               -> null
         }
         return extractor
     }
