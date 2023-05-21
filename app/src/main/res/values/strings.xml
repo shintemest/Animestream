@@ -169,13 +169,13 @@
     </string-array>
 
     <string name="video">Video</string>
-    <string name="video_info">Show Video Info</string>
-    <string name="source_info">Show Source Name</string>
-    <string name="video_info_info">Shows what the Resolution of the current video playing, useful for <b>\"Multi Quality\"</b> servers.</string>
-    <string name="default_quality">Auto Quality Selection</string>
+    <string name="video_info">Tampilkan Info Video</string>
+    <string name="source_info">Tampilkan Nama Source</string>
+    <string name="video_info_info">Menunjukkan untuk apa Resolusi pemutaran video saat ini, berguna <b>\"Multi Quality\"</b> servers.</string>
+    <string name="default_quality">Auto Pilih Quality</string>
     <string name="height">Height</string>
     <string name="width">Width</string>
-    <string name="default_quality_info">Automatically uses the closest quality provided by default, ONLY applied for \"Multi Quality\" Servers. Auto changes upon playing a video.</string>
+    <string name="default_quality_info">Secara otomatis menggunakan kualitas terdekat yang disediakan secara default, HANYA diterapkan untuk Server \"Multi Quality\". Perubahan otomatis saat memutar video.</string>
     <string name="default_playback_speed">Default Playback Speed : %1$s</string>
     <string name="cursed_speeds">Cursed Speeds</string>
     <string name="resize_mode_button">Default Resize Mode</string>
@@ -186,16 +186,16 @@
     <string name="secondary_sub_outline_type_select">Subtitle Outline Type</string>
     <string name="sub_background_color_select">Subtitle Background Color</string>
     <string name="sub_window_color_select">Subtitle Window Color</string>
-    <string name="sub_window_color_info">"The subtitle window is the part left and right from them. (where the background isn't)"</string>
-    <string name="sub_color_info"><b>Note:</b> Changing Subtitle formatting only works with Soft-Subbed Sources such as Zoro!</string>
+    <string name="sub_window_color_info">"Jendela subtitle adalah bagian kiri dan kanan dari mereka. (di mana latar belakang tidak)"</string>
+    <string name="sub_color_info"><b>Catatan:</b> Mengubah pemformatan Subtitle hanya berfungsi dengan Sumber Soft-Subbed seperti Zoro!</string>
     <string name="sub_font_select">Subtitle Font</string>
     <string name="subtitle_font_size">Subtitle Size</string>
 
     <string name="auto">Auto</string>
-    <string name="auto_play_next_episode">Autoplay Next Episode</string>
-    <string name="auto_play_next_episode_info">Automatically disables if there is no interaction with player after 1 hour.</string>
+    <string name="auto_play_next_episode">Autoplay Episode Selanjutnya</string>
+    <string name="auto_play_next_episode_info">Nonaktifkan secara otomatis jika tidak ada interaksi dengan pemain setelah 1 jam.</string>
     <string name="auto_skip_fillers">Auto Skip Fillers</string>
-    <string name="auto_skip_fillers_info">Skips filler episodes when going to next episode.</string>
+    <string name="auto_skip_fillers_info">Skips filler episodes ketika pergi ke Episode Selanjutnya.</string>
 
     <string name="update_progress">Update Progress</string>
     <string name="ask_update_progress_anime">Ask for each Anime \"Individually\"</string>
@@ -206,7 +206,7 @@
     <string name="ask_update_progress_doujin">Update Progress for Doujins</string>
     <string name="very_bold">very bold of you sar</string>
     <string name="watch_complete_percentage">Watch Update Percentage</string>
-    <string name="watch_complete_percentage_info">The percentage at which your Anilist progress should be updated after watching an episode. \nThis also sets the \% for when to preload links for the next episode.</string>
+    <string name="watch_complete_percentage_info">Persentase progres Anilist Anda harus diperbarui setelah menonton sebuah episode. \nIni juga menetapkan \% waktu pramuat tautan untuk episode berikutnya.</string>
 
     <string name="behaviour">Behaviour</string>
     <string name="always_continue">Always Continue from where you left off</string>
@@ -292,7 +292,7 @@
     <string name="requires_time_stamps_to_be_enabled">Requires Time Stamps to be Enabled</string>
     <string name="total_repeats">TOTAL REPEATS</string>
     <string name="custom_lists">Custom Lists</string>
-    <string name="donate_desc">Want to support Saikou\'s Creator?\nConsider Donating</string>
+    <string name="donate_desc">Want to support Anime Stream\'s Creator?\nConsider Donating</string>
     <string name="donate_goal">(Let\'s reach to $1000!)</string>
     <string name="filter">Filter</string>
     <string name="year">Year</string>
@@ -319,28 +319,28 @@
     <string name="anilist">Anilist</string>
     <string name="account_help">How does this work\?</string>
     <string name="full_account_help">
-        Saikou is an Anilist Based App, so for syncing with your MAL Account, It needs an Anilist account to be logged in.
-        \nOnce logged in with both Anilist and MAL accounts, the app will automatically update your MAL account whenever:
-        \n- Add a new Media
-        \n- Edit a Media
-        \n- Delete a Media
+        Animw Stream adalah Aplikasi Berbasis Anilist, jadi untuk menyinkronkan dengan Akun MAL Anda, diperlukan akun Anilist untuk masuk.
+        \nSetelah masuk dengan akun Anilist dan MAL, aplikasi akan secara otomatis memperbarui akun MAL Anda kapan pun:
+        \n- Tambahkan Media baru
+        \n- Mengedit Media
+        \n- Menghapus Media
 
-        \n\nNote: The app will not sync old Media\'s from Anilist to MAL, It\'s recommended to sync them.
+        \n\nCatatan: Aplikasi tidak akan menyinkronkan Media lama dari Anilist ke MAL, Disarankan untuk menyinkronkannya.
         \n- Check __FAQs__ for _Easy Method_
 
-        \n\nAnd for _Intermediates_ :
-        \n- [How to sync Anilist data with MAL](https://anilist.co/forum/thread/2654)
-        \n- [How to sync MAL data with Anilist](https://anilist.co/forum/thread/3393)
+        \n\nDan untuk _Menengah_ :
+        \n- [Cara menyinkronkan Anilist data with MAL](https://anilist.co/forum/thread/2654)
+        \n- [Cara menyinkronkan MAL data with Anilist](https://anilist.co/forum/thread/3393)
 
-        \n\n_It is not required to sync both MAL and Anilist accounts._
+        \n\n_Tidak perlu menyinkronkan akun MAL dan Anilist._
     </string>
-    <string name="notification_for_checking_subscriptions">Show notification for Checking Subscriptions</string>
-    <string name="checking_subscriptions">Notification for Checking Subscriptions</string>
+    <string name="notification_for_checking_subscriptions">Tampilkan pemberitahuan untuk Memeriksa Langganan</string>
+    <string name="checking_subscriptions">Pemberitahuan untuk Memeriksa Langganan</string>
     <string name="subscriptions_checking_time_s">Subscriptions Update Frequency : %1$s</string>
     <string name="subscriptions_checking_time">Subscriptions Update Frequency</string>
-    <string name="subscriptions_info">Amount of time for Saikou to periodically check for new Episodes/Chapters\n(Less time will cause more battery consumption)</string>
+    <string name="subscriptions_info">Jumlah waktu untuk Anime Stream untuk memeriksa Episode/Bab baru secara berkala\n(Waktu yang lebih sedikit akan menyebabkan lebih banyak konsumsi baterai)</string>
     <string name="do_not_update">Don\'t Update</string>
-    <string name="loading_next_chap">Loading Next Chapter</string>
+    <string name="loading_next_chap">Menunggu Chapter Selanjutnya</string>
     <string name="grid">Grid</string>
     <string name="sort_by_release_date">Sort by Release Date</string>
     <string name="crop_borders">Crop Borders</string>
