@@ -2,7 +2,7 @@
 
     <string name="repo">saikou-app/saikou</string>
 
-    <string name="app_name">Saikou IN</string>
+    <string name="app_name">Anime Stream</string>
     <string name="slogan">The Best Anime &amp; Manga app for Android.</string>
 
     <string name="login">Login</string>
@@ -162,10 +162,10 @@
         <item>Sialan, mengapa Anda membuang-buang waktu Anda?</item>
         <item>Anda dapat Long Click untuk menyalin Pesan ini.</item>
         <item>YA TUHAN LIHAT! ANDA MENEMUKAN TELUR PASKAH!?</item>
-        <item>You know who else likes this Animation?</item>
+        <item>Anda tahu siapa lagi yang suka Animasi ini?</item>
         <item>MAL support? bruh.</item>
-        <item>Novels? more like NO vels.</item>
-        <item>Long Click the logo to check for App Update</item>
+        <item>Novel? lebih seperti NO vels.</item>
+        <item>Long Klik logo untuk memeriksa Pembaruan Aplikasi</item>
     </string-array>
 
     <string name="video">Video</string>
