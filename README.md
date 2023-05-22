@@ -22,95 +22,56 @@ Saikou is crafted based on simplistic yet state-of-the-art elegance. It is an [A
 <!--<img src="https://github.com/saikou-app/saikou-app.github.io/blob/main/assets/Screenshot_20220330-175525.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/saikou-app/saikou-app.github.io/blob/main/assets/Screenshot_20220330-175542.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/saikou-app/saikou-app.github.io/blob/main/assets/Screenshot_20220330-175551.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/saikou-app/saikou-app.github.io/blob/main/assets/Screenshot_20220330-175600.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/saikou-app/saikou-app.github.io/blob/main/assets/Screenshot_20220330-183102.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/saikou-app/saikou-app.github.io/blob/main/assets/Screenshot_20220330-183112.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/saikou-app/saikou-app.github.io/blob/main/assets/Screenshot_20220330-183120.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/saikou-app/saikou-app.github.io/blob/main/assets/Screenshot_20220330-182352.png?raw=true" style="width: 23%;margin:16px;" />&nbsp;&nbsp;<img src="https://github.com/saikou-app/saikou-app.github.io/blob/main/assets/Screenshot_20220330-182421.png?raw=true" style="width: 23%;margin:16px;" />-->
 
 
-## APP FEATURES
+## FITUR APLIKASI
 
-- Easy and functional way to both, watch anime and read manga, ad-free.
+- Cara mudah dan fungsional untuk keduanya, menonton anime dan membaca manga, bebas iklan.
 
-- A completely open source app with a nice UI & Animations :)
+- Aplikasi sumber yang sepenuhnya terbuka dengan UI & Animasi yang bagus :)
 
-- The most Efficient scraping for anime and manga from multiple sources. (_Spoiler Alert : No web-views were harmed_)
+- Pengikisan paling efisien untuk anime dan manga dari berbagai sumber. (_Peringatan Spoiler: Tidak ada tampilan web yang dirugikan_)
 
-- Synchronize anime and manga real-time with AniList and MyAnimeList. Easily categorise anime and manga based on your current status. (Powered by AniList)
+- Sinkronkan anime dan manga secara real-time dengan AniList dan MyAnimeList. Mengkategorikan anime dan manga dengan mudah berdasarkan status Anda saat ini. (Didukung oleh AniList)
 
-- Find all shows using thoroughly and frequently updated list of all trending, popular and ongoing anime based on scores.
+- Temukan semua acara menggunakan daftar semua anime yang sedang tren, populer, dan sedang berlangsung secara menyeluruh dan sering diperbarui berdasarkan skor.
 
-- View extensive details about anime shows, movies and manga titles. It also features ability to countdown to the next episode of airing anime. (Powered by AniList & MyAnimeList)
+- Lihat detail ekstensif tentang acara anime, film, dan judul manga. Ini juga menampilkan kemampuan untuk menghitung mundur ke episode berikutnya dari anime yang ditayangkan. (Didukung oleh AniList & MyAnimeList)
 
-- Get notified when new episodes/chapters are released!
+- Dapatkan pemberitahuan saat Episode/Chapter baru dirilis!
 
 
-* **Available Anime sources:-**
+* **Sumber Anime yang tersedia:-**
 
 |                            SITE                            |   STATUS    | DOWNLOADS |
 |:----------------------------------------------------------:|:-----------:|:---------:|
-|             [AllAnime](https://allanime.site)              |   WORKING   |   SOME    |
-|                [Gogo](https://gogoanime.cl)                |   WORKING   |   SOME    |
+|             [Samehadaku](https://samehadaku.cam)           |   WORKING   |   SOME    |
+|             [OtakuDesu](https://otakudesu.lol)             |   WORKING   |   SOME    |
 |                  [Zoro](https://zoro.to)                   |   WORKING   |    NO     |
-|                 [Marin](https://marin.moe)                 |   WORKING   |    YES    |
-|             [AnimePahe](https://animepahe.ru)              |   WORKING   |    YES    |
-|           [ConsumeBili](https://www.bilibili.tv)           |   WORKING   |    NO     |
-|               [Haho (18+)](https://haho.moe)               |   WORKING   |    YES    |
-|         [HentaiMama (18+)](https://hentaimama.io)          |   WORKING   |   SOME    |
-|       [HentaiStream (18+)](https://hentaistream.com)       | NOT-WORKING |    YES    |
-|           [HentaiFF (18+)](https://hentaiff.com)           |   WORKING   |   SOME    |
+|                 [Kuramanime](https://kuramanime.net)       |   WORKING   |    YES    |
+|             [OpLoverz](https://oploverz.top)               |   WORKING   |    YES    |
 
 
-* **Available Manga sources:-**
+* **Sumber Manga yang tersedia:-**
 
 |                    SITE                    |   STATUS    |
 |:------------------------------------------:|:-----------:|
-|  [MangaKakalot](https://mangakakalot.com)  |   WORKING   |
-|    [MangaBuddy](https://mangabuddy.com)    |   WORKING   |
-|     [MangaPill](https://mangapill.com)     |   WORKING   |
+|  [Komiku](https://komiku.id)               |   WORKING   |
+|    [Komikcast](https://komikcast.site)     |   WORKING   |
+|     [Kiryuu](https://kiryuu.co)            |   WORKING   |
 |      [MangaDex](https://mangadex.org)      |   WORKING   |
-|  [MangaReaderTo](https://mangareader.to)   |   WORKING   |
-|     [AllAnime](https://allanime.site)      |   WORKING   |
-|      [Comickfun](https://comick.fun)       |   WORKING   |
-|   [Manga4Life](https://manga4life.com/)    |   WORKING   |
-|   [MangaRead](https://www.mangaread.org)   |   WORKING   |
-|   [MangaKatana](https://mangakatana.com)   |   WORKING   |
-|  [ColoredManga](https://coloredmanga.com/) |   WORKING   |
-|  [MangaKomi](https://mangakomi.io/manga/)  |   WORKING   |
-|      [Toonily](https://toonily.com/)       |   WORKING   |
-|    [NHentai (18+)](https://nhentai.net)    |   WORKING   |
-| [NineHentai (18+)](https://ninehentai.net) |   WORKING   |
-|   [Manwha18 (18+)](https://manhwa18.cc)    |   WORKING   |
+|  [WestManga](https://westmanga.info)       |   WORKING   |
 
-## Planned Stuff
+## Hal-hal yang Direncanakan
 
-- User Profile
+- Profil Pengguna
 
-- Offline Video Player & Reader
-
-- Add novel sources (1lib.in)?? Dk
- 
-
-## Rejected Stuff
-
-- Sources of any language except English
-
-- News Section in the App
- 
-- Comment Section
-
-- Accent Color Change (Hot Pink Supremacy.)
+- Pemutar & Pembaca Video Offline
 
 
-## Help wanted for:
+## INGIN BERKONTRIBUSI?
 
-- TV support
-  
-- Multi Quality Download (M3U8 & DASH videos)
+Semua kontribusi diterima, mulai dari kode hingga dokumentasi hingga grafik hingga saran desain hingga laporan bug. Harap gunakan GitHub secara maksimal; kontribusikan Permintaan Tarik, kontribusikan tutorial atau konten lainnya- apa pun yang Anda tawarkan, kami dapat menggunakannya! 
 
-- Bulk Download
-
-- Novel Reader
-
-## WANT TO CONTRIBUTE?
-
-- All contributions are welcome, from code to documentation to graphics to design suggestions to bug reports. Please use GitHub to its fullest; contribute Pull Requests, contribute tutorials or other content- whatever you have to offer, we can use it!
-
-- You can come hang out with our awesome community and request new features and report any bugs or issue at our discord server too.
+- Anda dapat berkumpul dengan komunitas kami yang luar biasa dan meminta fitur baru dan melaporkan bug atau masalah apa pun di server perselisihan kami juga.
 
 ### Official Discord Server
  
