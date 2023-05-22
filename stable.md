@@ -1,4 +1,4 @@
-# 1.2.3.0
+# 1.0.0
 
 ## Features
 - Easy and functional way to both, watch anime and read manga, ad-free.
