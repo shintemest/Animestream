@@ -10,11 +10,8 @@ Saikou is crafted based on simplistic yet state-of-the-art elegance. It is an [A
 <i>Saikou (最高; Sai-kō) literally means the best in Japanese. Well, we would like to say this is the best open source app for anime and manga on Android, but hey, try it out yourself & judge!
 </i> 
 <br>
-<br>
-<a 
-   <script type='text/javascript' src='https://cdn.trakteer.id/js/embed/trbtn.min.js'></script><script type='text/javascript'>(function(){var trbtnId=trbtn.init('Dukung Saya di Trakteer','#1DFF02','https://trakteer.id/animestreamid','https://cdn.trakteer.id/images/embed/trbtn-icon.png','40');trbtn.draw(trbtnId);})();</script>
-   /></a>
-<br>
+
+
 ### 🌟STAR THIS REPOSITORY TO SUPPORT THE DEVELOPER AND ENCOURAGE THE DEVELOPMENT OF THE APPLICATION!
 
 > **Warning**
