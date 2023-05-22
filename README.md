@@ -65,21 +65,9 @@ Semua kontribusi diterima, mulai dari kode hingga dokumentasi hingga grafik hing
 
 - Anda dapat berkumpul dengan komunitas kami yang luar biasa dan meminta fitur baru dan melaporkan bug atau masalah apa pun di server perselisihan kami juga.
 
-### Official Discord Server
- 
-<p align="center">
- <a href="https://discord.gg/2T7TunuwFZ">
-  <img src="https://invidget.switchblade.xyz/2T7TunuwFZ">
- </a>
-</p>
-
 ### Official Telegram Group
 
 https://telegram.me/saikou_app
-
-### VISIT FOR MORE INFORMATION:-
-
-https://saikou.me/
 
 ## DISCLAIMER
 
