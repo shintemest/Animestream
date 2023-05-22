@@ -18,19 +18,19 @@
 
 * **Sumber Anime yang tersedia:-**
 
-|                            SITE                            |   STATUS    | DOWNLOADS |
+|                      SITE                     |   STATUS    | DOWNLOADS |
 
-|:----------------------------------------------------------:|:-----------:|:---------:|
+|:---------------------------------------------:|:-----------:|:---------:|
 
-|             [Samehadaku](https://samehadaku.cam)           |   WORKING   |   SOME    |
+|    [Samehadaku](https://samehadaku.cam)       |   WORKING   |   SOME    |
 
-|             [OtakuDesu](https://otakudesu.lol)             |   WORKING   |   SOME    |
+|    [OtakuDesu](https://otakudesu.lol)         |   WORKING   |   SOME    |
 
-|                  [Zoro](https://zoro.to)                   |   WORKING   |    NO     |
+|     [Zoro](https://zoro.to)                   |   WORKING   |    NO     |
 
-|                 [Kuramanime](https://kuramanime.net)       |   WORKING   |    YES    |
+|     [Kuramanime](https://kuramanime.net)      |   WORKING   |    YES    |
 
-|             [OpLoverz](https://oploverz.top)               |   WORKING   |    YES    |
+|     [OpLoverz](https://oploverz.top)          |   WORKING   |    YES    |
 
 * **Sumber Manga yang tersedia:-**
 
