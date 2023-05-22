@@ -5,7 +5,7 @@
    <a href="https://github.com/saikou-app/saikou/releases"><img src="https://img.shields.io/github/downloads/saikou-app/saikou/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
 </p>
 
-Saikou is crafted based on simplistic yet state-of-the-art elegance. It is an [Anilist](https://anilist.co/) only client, which also lets you stream/download Anime & Manga. 
+Saikou dibuat berdasarkan keanggunan yang sederhana namun canggih. Ini adalah sebuah [Anilist](https://anilist.co/) satu-satunya klien, yang juga memungkinkan Anda streaming/mengunduh Anime & Manga.
 <br><br>
 <i>
 
