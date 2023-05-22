@@ -1,43 +1,49 @@
 # 1.0.0
 
-## Features
-- Easy and functional way to both, watch anime and read manga, ad-free.
-- The most Efficient scraping for anime and manga from multiple sources. (_Spoiler Alert : No web-views were harmed_)
-- Synchronize anime and manga real-time with AniList. Easily categorise anime and manga based on your current status. (Powered by AniList)
-- Find all shows using thoroughly and frequently updated list of all trending, popular and ongoing anime based on scores.
-- Get notified when new episodes/chapters are released!
+## FITUR
 
-* **Available Anime sources:-**
+- Cara mudah dan fungsional untuk keduanya, menonton anime dan membaca manga, bebas iklan.
+
+- Aplikasi sumber yang sepenuhnya terbuka dengan UI & Animasi yang bagus :)
+
+- Pengikisan paling efisien untuk anime dan manga dari berbagai sumber. (_Peringatan Spoiler: Tidak ada tampilan web yang dirugikan_)
+
+- Sinkronkan anime dan manga secara real-time dengan AniList dan MyAnimeList. Mengkategorikan anime dan manga dengan mudah berdasarkan status Anda saat ini. (Didukung oleh AniList)
+
+- Temukan semua acara menggunakan daftar semua anime yang sedang tren, populer, dan sedang berlangsung secara menyeluruh dan sering diperbarui berdasarkan skor.
+
+- Lihat detail ekstensif tentang acara anime, film, dan judul manga. Ini juga menampilkan kemampuan untuk menghitung mundur ke episode berikutnya dari anime yang ditayangkan. (Didukung oleh AniList & MyAnimeList)
+
+- Dapatkan pemberitahuan saat Episode/Chapter baru dirilis!
+
+* **Sumber Anime yang tersedia:-**
 
 |                            SITE                            |   STATUS    | DOWNLOADS |
+
 |:----------------------------------------------------------:|:-----------:|:---------:|
-|             [AllAnime](https://allanime.site)              |   WORKING   |   SOME    |
-|                [Gogo](https://gogoanime.cm)                |   WORKING   |   SOME    |
+
+|             [Samehadaku](https://samehadaku.cam)           |   WORKING   |   SOME    |
+
+|             [OtakuDesu](https://otakudesu.lol)             |   WORKING   |   SOME    |
+
 |                  [Zoro](https://zoro.to)                   |   WORKING   |    NO     |
-|                 [Marin](https://marin.moe)                 |   WORKING   |    YES    |
-|             [AnimePahe](https://animepahe.ru)              |   WORKING   |    YES    |
-|           [ConsumeBili](https://www.bilibili.tv)           |   WORKING   |    NO     |
-|               [Haho (18+)](https://haho.moe)               |   WORKING   |    YES    |
-|         [HentaiMama (18+)](https://hentaimama.io)          |   WORKING   |   SOME    |
-|       [HentaiStream (18+)](https://hentaistream.com)       | NOT-WORKING |    YES    |
-|           [HentaiFF (18+)](https://hentaiff.com)           |   WORKING   |   SOME    |
 
+|                 [Kuramanime](https://kuramanime.net)       |   WORKING   |    YES    |
 
-* **Available Manga sources:-**
+|             [OpLoverz](https://oploverz.top)               |   WORKING   |    YES    |
+
+* **Sumber Manga yang tersedia:-**
 
 |                    SITE                    |   STATUS    |
+
 |:------------------------------------------:|:-----------:|
-|  [MangaKakalot](https://mangakakalot.com)  |   WORKING   |
-|    [MangaBuddy](https://mangabuddy.com)    |   WORKING   |
-|     [MangaPill](https://mangapill.com)     |   WORKING   |
+
+|  [Komiku](https://komiku.id)               |   WORKING   |
+
+|    [Komikcast](https://komikcast.site)     |   WORKING   |
+
+|     [Kiryuu](https://kiryuu.co)            |   WORKING   |
+
 |      [MangaDex](https://mangadex.org)      |   WORKING   |
-|  [MangaReaderTo](https://mangareader.to)   |   WORKING   |
-|     [AllAnime](https://allanime.site)      |   WORKING   |
-|      [Comickfun](https://comick.fun)       |   WORKING   |
-|   [Manga4Life](https://manga4life.com/)    |   WORKING   |
-|   [MangaRead](https://www.mangaread.org)   |   WORKING   |
-|   [MangaKatana](https://mangakatana.com)   |   WORKING   |
-|      [Toonily](https://toonily.com/)       | NOT-WORKING |
-|    [NHentai (18+)](https://nhentai.net)    | NOT-WORKING |
-| [NineHentai (18+)](https://ninehentai.net) |   WORKING   |
-|   [Manwha18 (18+)](https://manhwa18.cc)    |   WORKING   |
+
+|  [WestManga](https://westmanga.info)       |   WORKING   |
