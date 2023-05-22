@@ -1,6 +1,7 @@
 <resources>
 
-    <string name="repo">saikou-app/saikou</string>
+
+    <string name="repo">HoshinoAqua/Anime-Stream</string>
 
     <string name="app_name">Anime Stream</string>
     <string name="slogan">The Best Anime &amp; Manga app for Android.</string>
@@ -8,9 +9,7 @@
     <string name="login">Login</string>
     <string name="logout">Logout</string>
 
-    <string name="discord">https://discord.gg/2T7TunuwFZ</string>
-    <string name="telegram">https://telegram.me/saikou_app</string>
-    <string name="github">https://github.com/saikou-app/saikou</string>
+    <string name="telegram">https://telegram.me/animestreamid</string>
 
     <string name="home">Home</string>
     <string name="anime">Anime</string>
@@ -28,7 +27,7 @@
     <string name="oh">:o</string>
     <string name="colon">" : "</string>
 
-    <string name="no_internet">Tidal ada Koneksi Internet</string>
+    <string name="no_internet">Tidak ada Koneksi Internet</string>
     <string name="refresh">Refresh</string>
 
     <string name="search">Pencarian</string>
@@ -43,7 +42,7 @@
     <string name="trending_novel">Trending Novel</string>
     <string name="popular_manga">Popular Manga</string>
 
-    <string name="username">Username</string>
+    <string name="username">Nama Pengguna</string>
     <string name="chapters_read">"Chapter Dibaca "</string>
     <string name="episodes_watched">"Episode Ditonton "</string>
     <string name="continue_reading">Lanjutkan Membaca</string>

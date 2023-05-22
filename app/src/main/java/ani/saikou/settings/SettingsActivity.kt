@@ -280,7 +280,7 @@ OS Version: $CODENAME $RELEASE ($SDK_INT)
             lifecycleScope.launch {
                 it.pop()
             }
-            openLinkInBrowser("https://www.buymeacoffee.com/brahmkshatriya")
+            openLinkInBrowser("https://teer.id/animestreamid")
         }
         lifecycleScope.launch {
             binding.settingBuyMeCoffee.pop()
@@ -294,21 +294,15 @@ OS Version: $CODENAME $RELEASE ($SDK_INT)
             lifecycleScope.launch {
                 it.pop()
             }
-            val upi = "upi://pay?pa=brahmkshatriya@apl&pn=Saikou"
+            val upi = "upi://teer.id/animestreamid"
             val intent = Intent(Intent.ACTION_VIEW).apply {
                 data = Uri.parse(upi)
             }
             startActivity(Intent.createChooser(intent, "Donate with..."))
         }
 
-        binding.loginDiscord.setOnClickListener {
-            openLinkInBrowser(getString(R.string.discord))
-        }
         binding.loginTelegram.setOnClickListener {
             openLinkInBrowser(getString(R.string.telegram))
-        }
-        binding.loginGithub.setOnClickListener {
-            openLinkInBrowser(getString(R.string.github))
         }
 
         binding.settingsUi.setOnClickListener {
